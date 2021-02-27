@@ -5,7 +5,7 @@ rem variavel: caminho destino dos arquivos que forem criptografados
 set dir_dest_encrypt=\\servidor\pasta_arquivos_criptografados\
 
 rem variavel: caminho onde deve-se DEScriptografar os arquivos .gpg
-set dir_decrypt=\\servidor\pasta_arquivos_COM_criptografia\
+set dir_decrypt=\\servidor\pasta_arquivos_COM_criptografia_a_ser_descriptografados\
 
 rem variavel: caminho destino dos arquivos que forem DEScriptografados
 set dir_dest_decrypt=\\servidor\pasta_arquivos_removido_a_criptografia\
